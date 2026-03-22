@@ -1,0 +1,5 @@
+- [主页](/)
+- [规则](/rules/index.md)
+    - [小圈交流群规模板](/rules/group.md)
+- [工具](/tools)
+    - [“汉克盾”信用系统](/tools/auso.md)
